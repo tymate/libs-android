@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tymate.image_viewer">
+
+    <application>
+
+        <activity
+            android:name=".ImageViewerActivity"
+            android:configChanges="screenSize|orientation"/>
+    </application>
+
+</manifest>

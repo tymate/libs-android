@@ -1,0 +1,5 @@
+<resources>
+    <string name="image_picker.dialog_title">Selectionner une image</string>
+    <string name="image_picker.choice.camera">Prendre une photo</string>
+    <string name="image_picker.choice.gallery">Ouvrir la galerie</string>
+</resources>

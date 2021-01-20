@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textDarkPrimary">#DE000000</color>
+    <color name="textDarkSecondary">#8A000000</color>
+    <color name="textDarkHint">#61000000</color>
+
+    <color name="textLightPrimary">#ffffff</color>
+    <color name="textLight50">#80ffffff</color>
+    <color name="textLightSecondary">#B3FFFFFF</color>
+    <color name="textLightTertiary">#80FFFFFF</color>
+    <color name="textLightHint">#4DFFFFFF</color>
+
+    <color name="controlHighlightWhite">#FFFFFF</color>
+    <color name="controlHighlightWhiteAlpha75">#BFFFFFFF</color>
+    <color name="controlHighlightWhiteAlpha50">#80FFFFFF</color>
+    <color name="controlHighlightWhiteAlpha25">#40FFFFFF</color>
+
+    <color name="controlHighlightGrey">#FFCCCCCC</color>
+    <color name="controlHighlightGreyAlpha75">#BFCCCCCC</color>
+    <color name="controlHighlightGreyAlpha50">#80CCCCCC</color>
+    <color name="controlHighlightGreyAlpha25">#40CCCCCC</color>
+
+    <color name="disabled">#C0C0C0</color>
+    <color name="transparent">#00000000</color>
+</resources>

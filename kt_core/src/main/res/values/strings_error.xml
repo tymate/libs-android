@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common errors -->
+    <string name="error.network.connection">Vous n\'êtes pas connecté à Internet&#8230;</string>
+    <string name="error.network.problem">Problème de connexion&#8230;</string>
+    <string name="error.network.server.problem">Problème avec le serveur&#8230;</string>
+    <string name="error.network.time_out">La connexion a expiré&#8230;</string>
+    <string name="error.unknown">Il semble que quelque chose n\'ait pas fonctionné correctement&#8230;</string>
+    <string name="error.unknown.title">Oups</string>
+
+    <!-- Server errors -->
+    <string name="error.server.403.title">Accès interdit</string>
+    <string name="error.server.403.msg">Il semblerait que vous ne soyez pas autorisé à voir ce contenu.</string>
+
+    <string name="error.server.generic.title">Quelque chose n\'a pas fonctionné !</string>
+    <string name="error.server.generic.msg">Si le problème persiste n\'hésitez pas à nous contacter.</string>
+
+    <!-- Empty state -->
+    <string name="error.empty_state.title">Il n\'y a rien pour le moment&#8230;</string>
+    <string name="error.empty_state.msg">Il semblerait qu\'il n\'existe, pour le moment, aucun contenu sur ce que vous demandez&#8230;</string>
+
+    <!-- Permissions -->
+    <string name="permission.missing.default_title">Permission manquante</string>
+    <string name="permission.missing.default_msg">Il vous manque une permission pour acceder à cette page</string>
+
+    <!-- Common actions -->
+    <string name="action.authorize_permission">Autoriser</string>
+    <string name="action.retry">Réessayer</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="toolbar" type="id"/>
+    <item name="app_bar_layout" type="id"/>
+
+    <item name="nav_host_fragment" type="id"/>
+
+    <item name="tag_recycler_items" type="id"/>
+    <item name="tag_diff_utils" type="id"/>
+</resources>

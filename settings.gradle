@@ -1,3 +1,4 @@
+include ':kt_core'
 include ':image_viewer'
 include ':image_picker'
 include ':app'

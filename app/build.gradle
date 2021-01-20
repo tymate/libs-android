@@ -36,4 +36,6 @@ dependencies {
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation project(path: ':image_viewer')
+    implementation project(path: ':kt_core')
+    implementation project(path: ':image_picker')
 }

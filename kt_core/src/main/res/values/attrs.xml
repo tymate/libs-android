@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DynamicHeightImageView">
+        <attr name="ratio" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="DynamicWidhtImageView">
+        <attr name="ratio" />
+    </declare-styleable>
+
+    <declare-styleable name="CircularTextView">
+        <attr name="shadowRadius" format="dimension"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="shadowDx" format="dimension"/>
+        <attr name="shadowDy" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+</resources>

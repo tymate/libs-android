@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/image_picker" />
             <option value="$PROJECT_DIR$/image_viewer" />
+            <option value="$PROJECT_DIR$/kt_core" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

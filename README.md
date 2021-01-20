@@ -27,5 +27,7 @@ allprojects {
 ```gradle
 dependencies {
     implementation 'com.github.tymate.libs-android:image_picker:v1.0.0'
+    implementation 'com.github.tymate.libs-android:image_viewer:v1.0.0'
+    implementation 'com.github.tymate.libs-android:kt_core:v1.0.0'
 }
 ```

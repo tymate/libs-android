@@ -13,3 +13,19 @@ Set of useful Android librairies
     - Errors
     - Utils
     
+# Installation
+
+```gradle
+allprojects {
+    repositories {
+	    ...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+```gradle
+dependencies {
+    implementation 'com.github.tymate.libs-android:image_picker:v1.0.0'
+}
+```
